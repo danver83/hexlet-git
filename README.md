@@ -1,3 +1,1 @@
-Hello, Hexlet!!!
-add this string!
-
+Hello, Hexlet! How are you?
